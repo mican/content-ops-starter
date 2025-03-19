@@ -269,7 +269,7 @@ sections:
   - type: GenericSection
     title:
       text: Generic section with a video
-      color: text-dark
+      color: text-light
       styles:
         self:
           textAlign: left

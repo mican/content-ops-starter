@@ -8,8 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: >-
-    /images/img-placeholder.svg
+  url: /images/img-placeholder.svg
   altText: Case study 3
   styles:
     self:
@@ -80,7 +79,7 @@ styles:
       - pl-5
       - pb-5
       - pr-5
-    textAlign: center
+    textAlign: right
     borderColor: border-light
     borderStyle: none
     borderWidth: 0
